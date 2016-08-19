@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="liga.xsl"?>
+<collection title="Informacion">
+  <info>
+    <equipo>America</equipo>
+    <ciudad>CDMX</ciudad>
+    <triunfos>3</triunfos>
+    <jugador>
+      <nombre>Hugo Gonzalez</nombre>
+      <numero>1</numero>
+      <posicion>Portero</posicion>
+    </jugador>
+    <jugador>
+      <nombre>Paolo Goltz</nombre>
+      <numero>2</numero>
+      <posicion>Defensa</posicion>
+    </jugador>
+  </info>
+
+  <info>
+    <equipo>Atlas</equipo>
+    <ciudad>Guadalajara</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Chiapas</equipo>
+    <ciudad>Chiapas</ciudad>
+    <triunfos>1</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Cruz Azul</equipo>
+    <ciudad>CDMX</ciudad>
+    <triunfos>0</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Guadalajara</equipo>
+    <ciudad>Guadalajara</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Leon</equipo>
+    <ciudad>Leon</ciudad>
+    <triunfos>0</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Monterrey</equipo>
+    <ciudad>Nuevo Leon</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Morelia</equipo>
+    <ciudad>Michoacan</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Necaxa</equipo>
+    <ciudad>Aguascalientes</ciudad>
+    <triunfos>0</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Pachuca</equipo>
+    <ciudad>Hidalgo</ciudad>
+    <triunfos>4</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Puebla</equipo>
+    <ciudad>Puebla</ciudad>
+    <triunfos>1</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Queretaro</equipo>
+    <ciudad>Queretaro</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Santos Laguna</equipo>
+    <ciudad>Torreon</ciudad>
+    <triunfos>0</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Tijuana</equipo>
+    <ciudad>Baja California Norte</ciudad>
+    <triunfos>4</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Toluca</equipo>
+    <ciudad>Mexico</ciudad>
+    <triunfos>1</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>UANL</equipo>
+    <ciudad>Nuevo Leon</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>UNAM</equipo>
+    <ciudad>CDMX</ciudad>
+    <triunfos>2</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+  <info>
+    <equipo>Veracruz</equipo>
+    <ciudad>Veracruz</ciudad>
+    <triunfos>1</triunfos>
+    <jugador>Hola</jugador>
+  </info>
+
+</collection>
